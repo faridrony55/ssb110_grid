@@ -1,0 +1,19 @@
+  .bg-gray{
+  	background: #8080804d;
+
+  }
+  h1{
+  	margin: 0;
+  	font-size: 24px;
+
+  }
+  footer{
+  	background-color: #202246;
+
+  }
+  footer ul li a{
+  	
+padding: 10px 20px;
+  	
+color: #519451;
+  }
